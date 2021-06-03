@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<meta charset="utf-8">
+	 <link rel="icon" type="image/x-icon" href="favicon.png" /> 
+	<meta name="description" content="Auto škola TIM se bavi stručnim osposobljavanjem kandidata za upravljanje motornim vozilima. Kod nas možete brzo, lako i jednostavno položiti vozački ispit i dobiti vozačku dozvolu. Polaganje teorije se obavlja u prostorijama škole dok se polaganje praktičnog dela ispita izvodi na poligonu">
+	<meta name="title" content="Auto škola TIM za profesionalnu obuku vozača">
+	<meta name="keywords" content="auto, motorno vozilo, škola, polaganje, dozvola, vozačka, ispit, prva pomoć">
+	<title>Auto škola TIM</title>
+</head>
+<body>
+
+	<nav>
+		<ul>
+			<li><a href="index1.html">Početna</a></li>
+			<li><a href="vozila.html">Vozila</a></li>
+			<li><a href="kategorije.html">Kategorije</a></li>
+			<li><a href="cenovnik.html">Cenovnik</a></li>
+			<li><a href="prijava.html">Online prijava</a></li>
+			<li><a href="onama.html">O nama</a></li>
+			<li><a href="kontakt.html">Kontakt</a></li>
+		</ul>
+	</nav>
+</body>
+</html>
